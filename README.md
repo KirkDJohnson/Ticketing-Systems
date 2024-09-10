@@ -2,7 +2,7 @@
 
 <br />
 <h2>Description</h2>
-Here I explore two help desk ticketing systems, Spiceworks's Cloud Help desk, and Fresh Desk. With both systems I experimented with the settings and functionalities creating users, ticket rules, generating tickets through different meansm, reply to tickets, and closing tickets. While it seems both ticketing systems are solid, I notices Cloud help desk had easier to navigate and configure settings, however, Fresh desk allowed for more specific and granual settings which could an advantage depending on the organization. Nonetheless, gaining hands-on experience with two ticketing systems was goal of this repository.
+Here I explore two help desk ticketing systems, Spiceworks's Cloud Help Desk, and Fresh Desk. With both systems I experimented with the settings and functionalities creating users, ticket rules, generating tickets through different meansm, reply to tickets, and closing tickets. While it seems both ticketing systems are solid, I notices Cloud help desk had easier to navigate and configure settings, however, Fresh desk allowed for more specific and granual settings which could an advantage depending on the organization. Nonetheless, gaining hands-on experience with two ticketing systems was goal of this repository.
 
 <h2>Utilities Used</h2>
 
