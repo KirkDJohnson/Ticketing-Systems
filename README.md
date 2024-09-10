@@ -29,6 +29,10 @@ I first begun by just working my way through the different settings and experime
  <img src="https://github.com/user-attachments/assets/875fe53e-f591-4cfd-b68a-b47f10019ee7" alt="Ticketing Systems"/>
 <br />
 <br />
+There is a semi-customizable way to automatically assign tickets in Spiceworks called Ticket Rules. For example, I craeted a rule called Priority Tickets that are created when both condidtions are met whic are: categority of ticket is Network, and the Oranziation is Homelab, it sets the priority of the ticket to high and assigns it to the network specialist Kirk Johnson. This makes it so Kirk was automatically be assigned these netowrk tickets rather than having to sort through the ticket queue or wait for other help desk workers to escalate ot assign the tickets to him.<br/>
+<img src="https://github.com/user-attachments/assets/3b06b079-68c8-4336-abc4-6e90a567e5d6" alt="Ticketing Systems"/>
+<br />
+<br />
 I now began to test creating tickets in different ways. Within the ticketing system, you (acting as the admin or a manager can manually create tickets. This would likely happen if instead of a user creating a ticket through the portal or email, they call helpdesk and IT support and we fill out a ticket for them. Within the ticket, I input the contact or name of user that the ticket belongs to, the summary, description of the probelm, assigned it the manager Mr. Mercury, gave it a priority and category. However, if the user provided screenshots or pictures of the issue, they could have also been included here.<br/>
 <img src="https://github.com/user-attachments/assets/e9aaec01-9dd0-4573-adc9-22d0fceb1160" alt="Ticketing Systems"/>
 <br />
@@ -69,10 +73,7 @@ A great addition that Fresh desk includes is the ability to merge tickets. In th
  <img src="https://github.com/user-attachments/assets/6da9bd5b-b004-47ee-b827-05e2dce19a4c" alt="Ticketing Systems"/>
 <br />
 <br />
-Text<br/>
-<img src="" alt="Ticketing Systems"/>
-<br />
-<br />
+
 Text<br/>
 <img src="" alt="Ticketing Systems"/>
 <br />
