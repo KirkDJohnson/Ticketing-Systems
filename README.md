@@ -24,7 +24,7 @@ I first begun by just working my way through the different settings and experime
  <img src="https://github.com/user-attachments/assets/875fe53e-f591-4cfd-b68a-b47f10019ee7" alt="Ticketing Systems"/>
 <br />
 <br />
-A useful setting I discovered was Ticket Rules. It allows you to customize how tickets are labled and automatically assign them. For example, I craeted a rule called Priority Tickets that are created when both condidtions are met whic are: categority of ticket is Network, and the Oranziation is Homelab, it sets the priority of the ticket to high and assigns it to the network specialist Kirk Johnson. This makes it so Kirk was automatically be assigned these netowrk tickets rather than having to sort through the ticket queue or wait for other help desk workers to escalate ot assign the tickets to him.<br/>
+A useful setting I discovered was Ticket Rules. It allows you to customize how tickets are labled and automatically assign them. For example, I created a rule called Priority Tickets that are created when both condidtions are met: categority of ticket is Network, and the Organziation is Homelab. It sets the priority of the ticket to high and assigns it to the network specialist Kirk Johnson. This makes it so Kirk is automatically assigned these netowrk tickets rather than having to sort through the ticket queue or wait for other help desk workers to escalate or assign the tickets to him.<br/>
 <img src="https://github.com/user-attachments/assets/3b06b079-68c8-4336-abc4-6e90a567e5d6" alt="Ticketing Systems"/>
 <br />
 <br />
