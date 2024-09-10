@@ -7,7 +7,7 @@ Here I explore two help desk ticketing systems, Spiceworks's Cloud Help Desk, an
 <h2>Utilities Used</h2>
 
 - <b>Spiceworks</b> 
-- <b>Freshhdesk</b>
+- <b>Fresh Desk</b>
 
 <h2>Environment Used </h2>
 
