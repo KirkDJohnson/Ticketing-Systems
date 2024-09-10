@@ -53,27 +53,21 @@ Next I pivoted to the second ticketing system Fresh Desk. Within Fresh Desk, I i
   <img src="https://github.com/user-attachments/assets/26743381-92f8-4b07-a96b-40ed4605fb36" alt="Ticketing Systems"/>
 <br />
 <br />
-I then began exploring the different settings and funcationalities of freshdesk as I did with Spiceworks and found much overlap, however, I did find that added granularity I was looking for in Spiceworks but did not find. Though Spiceworks had Ticket Rules that under a condition you could assign a ticket to a specific worker, Fresh Desk takes this even further. An example of this was the ability to create "Skills" where you could have boolean operation that match any or all of them and then assign the skill to a help desk employee which would automatically send tickets that match any or all of configured conditions to them. In my exmaple, any ticket taht either has a priority of Urgent, the type is an incident, or if the group of tickets is an escalation, it would fall under the skill of Urgent Tickets where I could then assign the "Skill" of Urgent Tickets to the most skilled or Tier 3 help desk who in the example was Mr. Cobain. This was sim<br/>
+I then began exploring the different settings and functionalities of Fresh Desk as I did with Spiceworks and found much overlap. However, I did find there was additional granularity that Spiceworks did not provide. Though Spiceworks had Ticket Rules that under a condition you could assign a ticket to a specific worker, Fresh Desk takes this even further. An example of this was the ability to create "Skills" where you could have conditional operations that match any or all of them and then assign the skill to a help desk employee which would automatically send tickets that match any or all of configured conditions to them. In my exmaple, any ticket that either has a priority of Urgent, the type is an incident, or if the group of tickets is an escalation, it would fall under the skill of Urgent Tickets. I could then assign the "Skill" of Urgent Tickets to the most skilled or Tier 3 help desk who in the example was Mr. Cobain. This was simialr to Ticket Rules but was more advanced.<br/>
 <img src="https://github.com/user-attachments/assets/a4f27f8c-2447-43fe-8c7e-10f473c69939" alt="Ticketing Systems"/>
  <img src="https://github.com/user-attachments/assets/0cbf14eb-db3a-4324-90e8-8a7919f641f1" alt="Ticketing Systems"/>
 <br />
 <br />
-Another similarity was the knowledge base or FAQ that allowed help desk or administrators to post articles next to where users would send tickets in the online portal to curtial an influx of tickets. For example, in this hypothetical, many users were sending tickets regarding slow network performance. However, due to maintence occuring on the servers, this will continue for the next few days so you could make a temporary article detailing the expected network congestion but if users have no internet connection they should then create a ticket, thus reducing the number of same tickets coming in.<br/>
+Another similarity was the knowledge base or FAQ that allowed help desk or administrators to post articles next to where users would send tickets in the online portal to curtial an influx of tickets. For example, in this hypothetical, many users were sending tickets regarding slow network performance. However, due to maintence occuring on the servers, this will continue for the next several days. To alert users of this you could make a temporary article detailing the expected network congestion, and mention if users have no internet connection they should then create a ticket, thus reducing the number of same tickets coming in.<br/>
 <img src="https://github.com/user-attachments/assets/f5ca83cb-92f0-4a19-a62c-32dfe806aa7e" alt="Ticketing Systems"/>
  <img src="https://github.com/user-attachments/assets/ad5f8dec-d1ef-4a2b-a64b-e1e827095e43" alt="Ticketing Systems"/>
 <br />
 <br />
-A great addition that Fresh desk includes is the ability to merge tickets. In this example, an upset user sends a ticket about an issue they are facing when they arrived to work. Due to the issue not being resolved immediately, they send another ticket about the same issue. Rather than having two tickets and possible two different help desk workers applying the same diagnostics and fixes, you can merge the two tickets, into a single ticket to prevent confusion.<br/>
+Lastly, a great addition that Fresh Desk includes is the ability to merge tickets. In this example, an upset user sends a ticket about an issue they are facing when they arrived to work. Due to the issue not being resolved immediately, they send another ticket about the same issue. Rather than having two open tickets and possibly two different help desk workers applying the same diagnostics and fixes, you can merge the two tickets, into a single ticket to prevent confusion and resource exhaustion.<br/>
 <img src="https://github.com/user-attachments/assets/b5adf64a-4070-4cad-ab29-74a532f3d2e0" alt="Ticketing Systems"/>
  <img src="https://github.com/user-attachments/assets/6da9bd5b-b004-47ee-b827-05e2dce19a4c" alt="Ticketing Systems"/>
 <br />
 <br />
-Text<br/>
-<img src="" alt="Ticketing Systems"/>
-<br />
-<br />
-
-
 
 
 
