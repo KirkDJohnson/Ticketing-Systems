@@ -72,7 +72,7 @@ Lastly, a great addition that Fresh Desk includes is the ability to merge ticket
 
 
 <h2>Thoughts</h2>
-As mentioned earlier and throughout the write-up, both ticketing systems were good in their own right. There was not one that was far superior to the other, however, I am still a novice with ticketing systems. In the configuration settings of Spiceworks cloud help desk, there was the option of integrating it with Active Directory which I am not sure if Fresh Desk also provides, but that seems like another way to streamline the process of creating tickets for the end user as many of the settings and identity could be pre-loaded in the ticket. I am sure depending on the organization and inflow of ticket would change the circumstances, but it was fun creating and responding to tickets. I am a solid writer and communicator so I feel that I would excell when it comes to responding to tickets with users.
+As mentioned earlier and throughout the write-up, both ticketing systems were good in their own right. There was not one that was far superior to the other, however, I am still a novice with ticketing systems. In the configuration settings of  Cloud Help Desk, there was the option of integrating it with Active Directory which I am not sure if Fresh Desk also provides, but that seems like another way to streamline the process of creating tickets for the end user as many of the settings and user identity could be pre-loaded in the ticket. I am sure taht depending on the organization and inflow of tickets would change the circumstances, but it was fun creating and responding to tickets. I am a solid writer and communicator so I feel that I would excell when it comes to responding to tickets with users.
 <!--
  ```diff
 - text in red
