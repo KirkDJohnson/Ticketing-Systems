@@ -32,7 +32,7 @@ I now began to test creating tickets in different ways. Within the ticketing sys
 <img src="https://github.com/user-attachments/assets/e9aaec01-9dd0-4573-adc9-22d0fceb1160" alt="Ticketing Systems"/>
 <br />
 <br />
-Another function of Cloud Help Desk was the article page that is shown next to where a user would submit a ticket. This is useful because if there is an influx of a specific kind of ticket, in my exmaple, I chose that users were sending tickets about their outlook mailbox becoming full preventing them from sending and receiving tickets. I made a user friendly article detailing easy solutions for the users to take without needing to submit a ticket and therefore reducing the number of tickets to help desk and empowering users <br/>
+Another function of Cloud Help Desk was the article page that is shown next to where a user would submit a ticket. This is useful because if there is an influx of a specific kind of ticket, in my example, I chose that users were sending tickets about their outlook mailbox becoming full preventing them from sending and receiving tickets. I made a user friendly article detailing easy solutions for the users to take without needing to submit a ticket and therefore reducing the number of tickets to help desk and empowering users <br/>
 <img src="https://github.com/user-attachments/assets/462fbdb5-3549-443f-9da9-a374eecba406" alt="Ticketing Systems"/>
  <img src="https://github.com/user-attachments/assets/2c38fdff-160a-40b0-bfac-4493e8305562" alt="Ticketing Systems"/>
 <br />
