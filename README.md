@@ -58,7 +58,7 @@ I then began exploring the different settings and functionalities of Fresh Desk 
  <img src="https://github.com/user-attachments/assets/0cbf14eb-db3a-4324-90e8-8a7919f641f1" alt="Ticketing Systems"/>
 <br />
 <br />
-Another similarity was the knowledge base or FAQ that allowed help desk or administrators to post articles next to where users would send tickets in the online portal to curtial an influx of tickets. For example, in this hypothetical, many users were sending tickets regarding slow network performance. However, due to maintence occuring on the servers, this will continue for the next several days. To alert users of this you could make a temporary article detailing the expected network congestion, and mention if users have no internet connection they should then create a ticket, thus reducing the number of same tickets coming in.<br/>
+Another similarity was the knowledge base or FAQ that allowed help desk or administrators to post articles next to where users would send tickets in the online portal to curtail an influx of tickets. For example, in this hypothetical, many users were sending tickets regarding slow network performance. However, due to maintence occuring on the servers, this will continue for the next several days. To alert users of this, you could make a temporary article detailing the expected network congestion, and mention if users have no internet connection they should then create a ticket, thus reducing the number of same tickets coming in.<br/>
 <img src="https://github.com/user-attachments/assets/f5ca83cb-92f0-4a19-a62c-32dfe806aa7e" alt="Ticketing Systems"/>
  <img src="https://github.com/user-attachments/assets/ad5f8dec-d1ef-4a2b-a64b-e1e827095e43" alt="Ticketing Systems"/>
 <br />
