@@ -28,7 +28,7 @@ A useful setting I discovered was Ticket Rules. It allows you to customize how t
 <img src="https://github.com/user-attachments/assets/3b06b079-68c8-4336-abc4-6e90a567e5d6" alt="Ticketing Systems"/>
 <br />
 <br />
-I now began to test creating tickets in different ways. Within the ticketing system, you (acting as the admin or a manager can manually create tickets. This would likely happen if instead of a user creating a ticket through the portal or email, they call helpdesk and IT support and we fill out a ticket for them. Within the ticket, I input the contact or name of user that the ticket belongs to, the summary, description of the probelm, assigned it the manager Mr. Mercury, gave it a priority and category. However, if the user provided screenshots or pictures of the issue, they could have also been included here.<br/>
+I now began to test creating tickets in different ways. Within the ticketing system, you (as the admin or a manager) can manually create tickets. This would likely happen if instead of a user creating a ticket through the portal or email, they call help desk or IT support and we fill out a ticket for them. Within the ticket, I input the contact or name of user that the ticket belongs to, the summary, description of the problem, assigned it the manager Mr. Mercury, gave it a priority and category. However, if the user provided screenshots or pictures of the issue, they could have also been included here.<br/>
 <img src="https://github.com/user-attachments/assets/e9aaec01-9dd0-4573-adc9-22d0fceb1160" alt="Ticketing Systems"/>
 <br />
 <br />
