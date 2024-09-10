@@ -38,6 +38,31 @@ Another function of cloud help desk that I found interesting and useful was the 
  <img src="https://github.com/user-attachments/assets/2c38fdff-160a-40b0-bfac-4493e8305562" alt="Ticketing Systems"/>
 <br />
 <br />
+I next created a fake email and emailed "help@kirkshomelab.on.spiceworks.com" to see what it is like to make and receive a ticket from email that simulates a user ticket. It appears the subject of the email became the ticket name and the contents of the email became the description of the ticket. Also, the ticket appeared but I could accept or close the ticket was not the case when creating a ticket manually to prevent possible fishing attempts or fake tickets. Moreover, within Spiceworks, within the ticket I added a public note with instructions on how the user can fix the problem and it showed up as a reply in my burner email that sent the ticket.<br/>
+<img src="https://github.com/user-attachments/assets/788aa206-9719-4fd4-aab7-649b2ea40699" alt="Ticketing Systems"/>
+ <img src="https://github.com/user-attachments/assets/8f9d1a11-226e-4ca9-8591-b79d6196d61d" alt="Ticketing Systems"/>
+<br />
+<br />
+Lastly, within Spiceworks, you can change filter of the tickets to show closed, unassigned, past due, ect. and reopen closed tickets or view the past tickets as a means of a knowledge base for current and future tickets. I like Cloud help desk, I thought the user interface was simple and easily navigable, as well as ticketing. However, with that there was not much granularity or fine tuning.   <br/>
+<img src="https://github.com/user-attachments/assets/4487b355-d807-4c9c-8f5e-935e048e25c4" alt="Ticketing Systems"/>
+<br />
+<br />
+Next I pivoted to the Freshdesk to gain hands on experience with different ticketing system. Within Freshdesk, I immediately tried two different means of submitting tickets, one through the online portal and the other from my burner email I made previously. Similar to Spiceworks's cloud help desk, submitting a ticket through the portal allowed for more precise ticket in reagrd what type of ticket is being submitted, the priority of the ticket and the product. In constrast, emailing the support account also uses the subject of the email as the name of the ticket and the description of the email as the description of the ticket as that is it. <br/>
+<img src="https://github.com/user-attachments/assets/829ba39a-0751-47ea-8285-7106c67d43c2" alt="Ticketing Systems"/>
+ <img src="https://github.com/user-attachments/assets/0eeee570-7c87-46f4-a08b-b59c8fee6087" alt="Ticketing Systems"/>
+ <img src="https://github.com/user-attachments/assets/8e2e20f4-3729-4408-a6c7-4c0246f2f407" alt="Ticketing Systems"/>
+  <img src="https://github.com/user-attachments/assets/26743381-92f8-4b07-a96b-40ed4605fb36" alt="Ticketing Systems"/>
+<br />
+<br />
+I then began exploring the different settings and funcationalities of freshdesk as I did with Spiceworks and found much overlap, however, I did find that added granularity I was looking for in Spiceworks but did not find. An example of this was the ability to create "Skills" where you could have boolean operation that match any or all of them and then assign the skill to a help desk employee which would automatically send tickets that match any or all of configured conditions to them. In my exmaple, any ticket taht either has a priority of Urgent, the type is an incident, or if the group of tickets is an escalation, it would fall under the skill of Urgent Tickets where I could then assign the "Skill" of Urgent Tickets to the most skilled or Tier 3 help desk who in the example was Mr. Cobain.<br/>
+<img src="https://github.com/user-attachments/assets/a4f27f8c-2447-43fe-8c7e-10f473c69939" alt="Ticketing Systems"/>
+ <img src="https://github.com/user-attachments/assets/0cbf14eb-db3a-4324-90e8-8a7919f641f1" alt="Ticketing Systems"/>
+<br />
+<br />
+Another similarity was the knowledge base or FAQ that allowed help desk or administrators to post articles next to where users would send tickets in the online portal to curtial an influx of tickets. For example, in this hypothetical, many users were sending tickets regarding slow network performance. However, due to maintence occuring on the servers, this will continue for the next few days so you could make a temporary article detailing the expected network congestion but if users have no internet connection they should then create a ticket, thus reducing the number of same tickets coming in.<br/>
+<img src="https://github.com/user-attachments/assets/f5ca83cb-92f0-4a19-a62c-32dfe806aa7e" alt="Ticketing Systems"/>
+<br />
+<br />
 Text<br/>
 <img src="" alt="Ticketing Systems"/>
 <br />
