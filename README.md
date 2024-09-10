@@ -9,10 +9,6 @@ Here I explore two help desk ticketing systems, Spiceworks's Cloud Help Desk, an
 - <b>Spiceworks</b> 
 - <b>Fresh Desk</b>
 
-<h2>Environment Used </h2>
-
-
-- </b>Windows 10 </b>
 
 <h2>Lab Overview:</h2>
 
