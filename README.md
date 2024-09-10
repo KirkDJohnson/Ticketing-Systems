@@ -13,7 +13,7 @@ Here I explore two help desk ticketing systems, Spiceworks's Cloud Help Desk, an
 <h2>Lab Overview:</h2>
 
 <p align="center">
-The first ticketing system that I will explore is spiceworks's Cloud Helpdesk tool. The ticket viewing page is very clean and there are ample settings within the organization that I can customize.<br/>
+The first ticketing system that I will explore is Spiceworks's Cloud Help Desk tool. The ticket viewing page is very clean and there are ample settings within the organization that I can customize.<br/>
 <img src="https://github.com/user-attachments/assets/b75aca35-9957-4e22-b102-2727595fb14c" alt="Ticketing Systems"/>
  <img src="https://github.com/user-attachments/assets/9bd54629-8190-4034-a856-b6fb66977a10" alt="Ticketing Systems"/>
 <br />
