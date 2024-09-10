@@ -24,7 +24,7 @@ I first begun by just working my way through the different settings and experime
  <img src="https://github.com/user-attachments/assets/875fe53e-f591-4cfd-b68a-b47f10019ee7" alt="Ticketing Systems"/>
 <br />
 <br />
-A useful setting I discovered was Ticket Rules. It allows you to customize how tickets are labled and automatically assign them. For example, I created a rule called Priority Tickets that are created when both condidtions are met: categority of ticket is Network, and the Organziation is Homelab. It sets the priority of the ticket to high and assigns it to the network specialist Kirk Johnson. This makes it so Kirk is automatically assigned these netowrk tickets rather than having to sort through the ticket queue or wait for other help desk workers to escalate or assign the tickets to him.<br/>
+A useful setting I discovered was Ticket rules. It allows you to customize how tickets are labled and automatically assign them. For example, I created a rule called Priority Tickets that are created when both condidtions are met: categority of ticket is Network, and the Organziation is Homelab. It sets the priority of the ticket to high and assigns it to the network specialist Kirk Johnson. This makes it so Kirk is automatically assigned these network tickets rather than having to sort through the ticket queue or wait for other help desk workers to escalate or assign the tickets to him.<br/>
 <img src="https://github.com/user-attachments/assets/3b06b079-68c8-4336-abc4-6e90a567e5d6" alt="Ticketing Systems"/>
 <br />
 <br />
@@ -42,11 +42,11 @@ I next created a fake email and emailed "help@kirkshomelab.on.spiceworks.com" to
  <img src="https://github.com/user-attachments/assets/8f9d1a11-226e-4ca9-8591-b79d6196d61d" alt="Ticketing Systems"/>
 <br />
 <br />
-Lastly, within Spiceworks, you can change filter of the tickets to show closed, unassigned, past due, ect. and reopen closed tickets or view the past tickets as a means of a knowledge base for current and future tickets. I like Cloud help desk, I thought the user interface was simple and easily navigable, as well as ticketing. However, with that there was not much granularity or fine tuning.   <br/>
+Lastly, within Spiceworks, you can change filter of the tickets to show closed, unassigned, past due, ect. and reopen closed tickets or view the past tickets as a means of a knowledge base for current and future tickets.   <br/>
 <img src="https://github.com/user-attachments/assets/4487b355-d807-4c9c-8f5e-935e048e25c4" alt="Ticketing Systems"/>
 <br />
 <br />
-Next I pivoted to the Freshdesk to gain hands on experience with different ticketing system. Within Freshdesk, I immediately tried two different means of submitting tickets, one through the online portal and the other from my burner email I made previously. Similar to Spiceworks's cloud help desk, submitting a ticket through the portal allowed for more precise ticket in reagrd what type of ticket is being submitted, the priority of the ticket and the product. In constrast, emailing the support account also uses the subject of the email as the name of the ticket and the description of the email as the description of the ticket as that is it. <br/>
+Next I pivoted to the second ticketing system Fresh Desk. Within Fresh Desk, I immediately tried two different means of submitting tickets, one through the online portal and the other from my burner email I made previously. Similar to Spiceworks's Cloud Help Desk, submitting a ticket through the portal allowed for a more precise ticket in reagrd what type of ticket is being submitted, the priority of the ticket and the product. In constrast, emailing the support account also used the subject of the email as the name of the ticket and the description of the email as the description of the ticket.  <br/>
 <img src="https://github.com/user-attachments/assets/829ba39a-0751-47ea-8285-7106c67d43c2" alt="Ticketing Systems"/>
  <img src="https://github.com/user-attachments/assets/0eeee570-7c87-46f4-a08b-b59c8fee6087" alt="Ticketing Systems"/>
  <img src="https://github.com/user-attachments/assets/8e2e20f4-3729-4408-a6c7-4c0246f2f407" alt="Ticketing Systems"/>
