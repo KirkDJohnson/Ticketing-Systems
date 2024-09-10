@@ -18,14 +18,14 @@ The first ticketing system that I will explore is Spiceworks's Cloud Help Desk t
  <img src="https://github.com/user-attachments/assets/9bd54629-8190-4034-a856-b6fb66977a10" alt="Ticketing Systems"/>
 <br />
 <br />
-I first begun by just working my way through the different settings and experimenting with the different tools and functions of the ticketing system such as: creating users, ticket rules, ticket categories, and creating a canned response for helpdesk to input when closing a ticket to improve efficency. <br/>
+I first begun by just working my way through the different settings and experimenting with the different tools and functions of the ticketing system such as: creating users, ticket categories, and creating a canned response for helpdesk to input when closing a ticket to improve efficency. <br/>
 <img src="https://github.com/user-attachments/assets/1d4ea6f1-0391-4bd4-a107-69e4f57eafc5" alt="Ticketing Systems"/>
  <img src="https://github.com/user-attachments/assets/f64d1a02-0a3e-48b8-8dad-f8a89c990723" alt="Ticketing Systems"/>
  <img src="https://github.com/user-attachments/assets/b925b162-7a29-422e-b571-1c78e49287f1" alt="Ticketing Systems"/>
  <img src="https://github.com/user-attachments/assets/875fe53e-f591-4cfd-b68a-b47f10019ee7" alt="Ticketing Systems"/>
 <br />
 <br />
-There is a semi-customizable way to automatically assign tickets in Spiceworks called Ticket Rules. For example, I craeted a rule called Priority Tickets that are created when both condidtions are met whic are: categority of ticket is Network, and the Oranziation is Homelab, it sets the priority of the ticket to high and assigns it to the network specialist Kirk Johnson. This makes it so Kirk was automatically be assigned these netowrk tickets rather than having to sort through the ticket queue or wait for other help desk workers to escalate ot assign the tickets to him.<br/>
+A useful setting I discovered was Ticket Rules. It allows you to customize how tickets are labled and automatically assign them. For example, I craeted a rule called Priority Tickets that are created when both condidtions are met whic are: categority of ticket is Network, and the Oranziation is Homelab, it sets the priority of the ticket to high and assigns it to the network specialist Kirk Johnson. This makes it so Kirk was automatically be assigned these netowrk tickets rather than having to sort through the ticket queue or wait for other help desk workers to escalate ot assign the tickets to him.<br/>
 <img src="https://github.com/user-attachments/assets/3b06b079-68c8-4336-abc4-6e90a567e5d6" alt="Ticketing Systems"/>
 <br />
 <br />
